@@ -220,3 +220,24 @@ hr {
 #times div h2 {
     color: white;
 }
+
+/*footer*/
+footer {
+    height: 150px;
+}
+
+.sotial-networks {
+    text-align: center;
+}
+
+.sotial-networks>li {
+    display: inline;
+}
+
+.sotial-networks i {
+    color: #3a3a3a;
+    margin: 1%;
+    padding: 5%;
+    font-size: 160%;
+
+}
